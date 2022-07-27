@@ -4,13 +4,9 @@ ModFinder is one of my first useful C++ applications that I've developed that wo
 
 The reason that ModFinder distinguishes from other manual-map detection programs, is due to how well it performs at detecting regions which were mapped.
 
-The following injectors have been tested and have successfully been detected.
+The following injectors have been tested and have successfully been detected:
 
-    https://github.com/DarthTon/Xenos
-    https://github.com/master131/ExtremeInjector
-    AlisaAlis Manual Map DLL Injector [x86/x64]
-    https://github.com/danielkrupinski/MemJect
-    
-    
-- e
-# e
+- https://github.com/DarthTon/Xenos
+- https://github.com/master131/ExtremeInjector
+- AlisaAlis Manual Map DLL Injector
+- https://github.com/danielkrupinski/MemJect
