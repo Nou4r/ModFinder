@@ -9,11 +9,11 @@ Unknowncheats thread
 - https://www.unknowncheats.me/forum/anti-cheat-bypass/508290-modfinder-tool-locating-mapped-memory.html
 
 The following injectors have been tested and have successfully been detected:
+- Extreme Injector (Latest)
+- Xenos (Latest)
+- Memject (Latest)
+- AlisaAlis (Latest)
 
-- https://www.unknowncheats.me/forum/c-and-c-/378849-dump-manually-mapped-dlls.html
-- https://www.unknowncheats.me/forum/c-and-c-/469426-manual-map-detection.html
-- https://www.unknowncheats.me/forum/c-and-c-/225605-detect-manual-map-injection.html
-- https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
 
 # Features
 - Mapped memory region enumeration.
