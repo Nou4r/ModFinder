@@ -6,7 +6,7 @@ The reason that ModFinder distinguishes from other manual-map detection programs
 
 The following injectors have been tested and have successfully been detected.
 
-    https://github.com/DarthTon/Xenos
+    #https://github.com/DarthTon/Xenos
     https://github.com/master131/ExtremeInjector
     AlisaAlis Manual Map DLL Injector [x86/x64]
     https://github.com/danielkrupinski/MemJect
