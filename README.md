@@ -19,6 +19,13 @@ The following injectors have been tested and have successfully been detected:
 - Mapped memory region enumeration.
 - Valid DOS header enumeration.
 
+# Compatible
+- Windows 10 (64-bit)
+- Windows 10 (32-bit)
+- Currently only supports x86 processes.
+- Every Windows version before or after 10 has not been tested, but should cause no issues.
+
+
 # To Do
 
 - Ignore natively loaded dll base addresses.
