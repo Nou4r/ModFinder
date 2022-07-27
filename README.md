@@ -4,7 +4,7 @@ ModFinder is one of my first useful C++ applications that I've developed that wo
 
 Typically, the only addresses you will receive are from manual-mapping flags. Rarely, you may receive a few other results of false catches. These are usually very easy to distinguish from the region you're actually looking for. An upside to ModFinder is that even if the entire optional headers page is erased, you will still be informed of regions that correspond with the first region. The reason that ModFinder distinguishes from other manual-map detection programs, is due to how well it performs at detecting regions which were mapped.
 
--- Unknowncheats thread https://www.unknowncheats.me/forum/anti-cheat-bypass/508290-modfinder-tool-locating-mapped-memory.html
+- Unknowncheats thread https://www.unknowncheats.me/forum/anti-cheat-bypass/508290-modfinder-tool-locating-mapped-memory.html
 
 The following injectors have been tested and have successfully been detected:
 
