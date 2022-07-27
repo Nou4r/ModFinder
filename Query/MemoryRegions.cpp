@@ -90,7 +90,7 @@ void Query::MemoryRegions()
         {
             std::cout << "0x" << arr[i];
 
-            std::cout << i << "\n";
+            // std::cout << i << "\n";
 
             // Seperate when the value is less then max - 1.
             if (i != arr.size() - 1)
