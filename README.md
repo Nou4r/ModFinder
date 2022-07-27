@@ -28,4 +28,4 @@ The following injectors have been tested and have successfully been detected:
 
 # Image
 
-![alt text]([http://url/to/img.png](https://i.imgur.com/mCv8K4G.png))
+https://i.imgur.com/mCv8K4G.png
