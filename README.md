@@ -11,6 +11,10 @@ The following injectors have been tested and have successfully been detected:
 - https://www.unknowncheats.me/forum/c-and-c-/225605-detect-manual-map-injection.html
 - https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
 
+# Features
+- Mapped memory region enumeration
+- Valid DOS header enumeration
+
 # To Do
 
 - Ignore natively loaded dll base addresses
