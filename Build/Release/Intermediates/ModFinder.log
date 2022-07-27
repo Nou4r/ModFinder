@@ -1,0 +1,10 @@
+﻿  Main.cpp
+  Process.cpp
+  GetProtectionType.cpp
+  MemoryRegions.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Projects\ModFinder\Query\GetProtectionType.cpp(41): warning C4715: 'Query::GetProtectionType': not all control paths return a value
+  All 225 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ModFinder.vcxproj -> D:\Projects\ModFinder\Build\Release\Release.exe
