@@ -16,12 +16,12 @@ The following injectors have been tested and have successfully been detected:
 - https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
 
 # Features
-- Mapped memory region enumeration
-- Valid DOS header enumeration
+- Mapped memory region enumeration.
+- Valid DOS header enumeration.
 
 # To Do
 
-- Ignore natively loaded dll base addresses
-- Check for dll manifest string
-- Support for x64 processes
-- Possible code improvements (if needed)
+- Ignore natively loaded dll base addresses.
+- Check for dll manifest string.
+- Support for x64 processes.
+- Possible code improvements. (if needed)
