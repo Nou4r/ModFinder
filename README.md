@@ -6,10 +6,10 @@ The reason that ModFinder distinguishes from other manual-map detection programs
 
 The following injectors have been tested and have successfully been detected:
 
-- https://www.unknowncheats.me/forum/c-and-c-/378849-dump-manually-mapped-dlls.html
-- https://www.unknowncheats.me/forum/c-and-c-/469426-manual-map-detection.html
-- https://www.unknowncheats.me/forum/c-and-c-/225605-detect-manual-map-injection.html"]Detect manual map injection
-- https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
+https://www.unknowncheats.me/forum/c-and-c-/378849-dump-manually-mapped-dlls.html
+https://www.unknowncheats.me/forum/c-and-c-/469426-manual-map-detection.html
+https://www.unknowncheats.me/forum/c-and-c-/225605-detect-manual-map-injection.html
+https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
 
 # To Do
 
