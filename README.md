@@ -6,14 +6,14 @@ The reason that ModFinder distinguishes from other manual-map detection programs
 
 The following injectors have been tested and have successfully been detected:
 
-- https://github.com/DarthTon/Xenos
-- https://github.com/master131/ExtremeInjector
-- AlisaAlis Manual Map DLL Injector
-- https://github.com/danielkrupinski/MemJect
+- https://www.unknowncheats.me/forum/c-and-c-/378849-dump-manually-mapped-dlls.html
+- https://www.unknowncheats.me/forum/c-and-c-/469426-manual-map-detection.html
+- https://www.unknowncheats.me/forum/c-and-c-/225605-detect-manual-map-injection.html"]Detect manual map injection
+- https://www.unknowncheats.me/forum/c-and-c-/422511-detect-dll-injection-manual-map.html
 
 # To Do
 
-    Ignore natively loaded dll base addresses
-    Check for dll manifest string
-    Support for x64 processes
-    Possible code improvements (if needed)
+- Ignore natively loaded dll base addresses
+- Check for dll manifest string
+- Support for x64 processes
+- Possible code improvements (if needed)
